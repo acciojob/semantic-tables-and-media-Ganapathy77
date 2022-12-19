@@ -1,2 +1,23 @@
-
+table td{
+    border: 1px;
+    height: 20px;
+    border-style: solid;
+    border-color: black;
+}
+table th{
+    border: 1px;
+    color: white;
+    font-weight: bold;
+    background-color: red;
+    height: 20px;
+    border-style: solid;
+    border-color: black;
+}
+table{
+    width: 50%;
+    border-collapse: collapse;
+}
+img{
+    display: block;
+}
 /* Your CSS Code here. */
